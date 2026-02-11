@@ -1,0 +1,6 @@
+node_modules/
+*.log
+leads/*.json
+outreach/*.txt
+deploy-*/
+.DS_Store
