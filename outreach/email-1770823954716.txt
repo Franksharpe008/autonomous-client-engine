@@ -1,0 +1,40 @@
+Subject: I built something for Sharp Cuts Barber Shop 👀
+
+Hi Sharp Cuts Barber Shop,
+
+I was searching for local barber shops and noticed you don't have a website yet.
+
+So I built one for you.
+
+**See it here:** https://autonomous-client-engine.vercel.app/demo
+
+It's fully functional, mobile-responsive, and designed to convert visitors into customers. Premium aesthetic with gold accents - same style as high-end barbershops.
+
+**Why I did this:**
+- To show you what's possible
+- To help your business grow
+- Because I believe in delivering before asking
+
+**What's included:**
+✓ Hero section with your branding
+✓ Services showcase
+✓ Contact buttons (phone + email)
+✓ Mobile responsive
+✓ Fast loading
+
+**No cost to review.**
+
+If you like it, we can customize it further and get it live on your own domain.
+
+Let me know what you think.
+
+Best,
+Frank Sharpe
+Web Developer & AI Architect
+
+---
+P.S. I can also add:
+- Online booking system
+- Photo gallery
+- Customer reviews section
+- Google Maps integration
